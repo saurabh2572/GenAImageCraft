@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+langchain==0.0.340
+accelerate
+diffusers
+transformers
+scipy
+ftfy
+safetensors
+sentencepiece
